@@ -20,8 +20,6 @@ def speak_to_grandma(phrase)
 # However if you say 'I LOVE YOU GRANDMA!', she should respond with
 # 'I LOVE YOU TOO PUMPKIN!'
 end
-
-speak_to_grandma("HELLO THERE")
     # Write a speak_to_grandma method.
 
 # Whatever you say to grandma, she should respond with
